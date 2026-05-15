@@ -68,7 +68,11 @@ pip install requests colorama pystyle
 ## 📝 Repository structure
 
 ```
-uhm ill see later
+├─ assets/ ➔ Screenshots of the Program in action
+│ └─ preview.png ➔ A screenshot of the Program running
+├─ LICENSE ➔ License file
+├─ README.md ➔ Read me file
+└── main.py ➔ Main program logic and CLI
 ```
 
 ---
