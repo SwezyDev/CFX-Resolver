@@ -20,7 +20,7 @@ $$ |  $$\ $$ |      $$  /\$$\       $$ |  $$ |$$   ____| \____$$\ $$ |  $$ |$$ |
  \______/ \__|      \__|  \__|      \__|  \__| \_______|\_______/  \______/ \__|    \_/     \_______|\__|      
 
                                                   by Swezy <3
-                                          https://github.com/SwezyDev                                            
+                                          https://github.com/SwezyDev
     """ # ascii logo
 
     patterns = [
